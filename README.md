@@ -1,1 +1,3 @@
-# podcast-next
+# podcast-next,shadcn,tailwind,react,gpt-3
+
+### ALL API/AUTH/DATABASE KEYS (.ENV) DUE TO PRIVACY. ALL ASSETS USED ARE UNORIGINAL TEST DATA AS PROOF OF CONCEPT
